@@ -1,5 +1,5 @@
 # Bitcoin wallet generator
-----
+
 Are you tired of spending money on stupid scratch cards to never win a dime?
 
 Come to play to the best scratch game ever!!!
